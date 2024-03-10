@@ -14,10 +14,6 @@ import SnapKit
 
 class DetailViewController: BaseViewController {
 
-	deinit {
-		print("Deinit")
-	}
-
 	// CollectionView로 할까 그냥 UIView로 할까 고민하다가, 그냥 UIView로 하기로 결정했습니다.
 	let detailView = DetailView()
 	let viewModel = DetailViewModel()
