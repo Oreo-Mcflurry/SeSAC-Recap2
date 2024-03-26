@@ -9,10 +9,6 @@
 
 ![스크린샷 2024-03-25 00 39 45](https://github.com/Oreo-Mcflurry/SeSAC-Recap2/assets/96654328/712ea984-61d2-4538-b36d-3b526996d8da)
 
-## 🔗 깃허브 & 앱스토어 링크
-
-https://github.com/Oreo-Mcflurry/SeSAC-Recap2
-
 ## 🧑‍🤝‍🧑 팀구성
 
 - 1인 개발
